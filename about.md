@@ -7,6 +7,8 @@ titles: About
 key: page-about
 ---
 
+
+
 ## Bios
  - Hongik Univ.
  - BOJ Gold 1. 
@@ -19,4 +21,4 @@ key: page-about
 - Drama
 - Something useless
 
-잔디밭 테스트1
+20200415 잔디밭 문제 해결!
