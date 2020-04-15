@@ -1,0 +1,21 @@
+header:
+  - titles:
+      # @start locale config
+      en      : &EN       Algorithm
+      ko      : &KO       알고리즘
+      # @end locale config
+    url: /algorithm/algopost/note
+
+  - titles:
+      # @start locale config
+      en      : &EN       Archive
+      ko      : &KO       아카이브
+      # @end locale config
+    url: /archive.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       About
+      ko      : &KO       소개
+      # @end locale config
+    url: /about.html

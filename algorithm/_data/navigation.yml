@@ -1,0 +1,22 @@
+header:
+  - title:      Home
+    url:        /
+  - title:      Algorithm
+    url:        /algorithm/algopost/note
+    key:        algorithm
+  - title:      Archive
+    url:        /archive.html
+  - title:      About
+    url:        /about.html
+  - title:      GitHub
+    url:        https://github.com/imyourmay/imyourmay.github.io
+
+
+
+algo-layout:
+  - title:      Note
+    url:        /algorithm/algopost/note
+  - title:      Algorithm
+    children:
+      - title:  Brute Force
+        url:    /algorithm/algopost/bruteforce
