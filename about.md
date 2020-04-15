@@ -6,9 +6,7 @@ titles: About
   ko      : &KO       소개
 key: page-about
 ---
-
-
-
+# About
 ## Bios
  - Hongik Univ.
  - BOJ Gold 1. 
